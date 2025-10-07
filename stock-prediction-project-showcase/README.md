@@ -1,3 +1,11 @@
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</div>
 A State-of-the-Art System for Financial Forecasting
 This repository showcases the core architectures and philosophy behind a sophisticated system designed to find a true predictive signal in the noise of the financial markets. Below is a deep dive into the project's journey, from initial concept to the final, robust ensemble model.
 
